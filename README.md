@@ -16,3 +16,4 @@ Saya Anandita Kusumah M dengan nim 2101114 mengerjakan Tugas Praktikum 4 DPBO da
 
 ### Dokumentasi
 
+![bandicam 2023-06-01 17-00-33-070](https://github.com/AnanditaKM/TP4DPBO2023C1/assets/100897554/2f132e3b-ec3d-4136-898c-3e0d32b479a1)
