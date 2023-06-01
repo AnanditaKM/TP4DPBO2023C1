@@ -5,5 +5,14 @@ Saya Anandita Kusumah M dengan nim 2101114 mengerjakan Tugas Praktikum 4 DPBO da
 
 ### Desain Database
 
+<img width="423" alt="image" src="https://github.com/AnanditaKM/TP4DPBO2023C1/assets/100897554/450f94be-7eb5-486b-acb5-3c6ae5270010">
+
 ### Penjelasan
+
+- Pada tugas Praktikum 4 ini saya membuat penyimpanan data supermarket
+-  Dimana terdiri dari 2 tabel yaitu data member, dan data supermarket.
+-  Dalam tabel member terdapat id(Primary Key),nama,no.phone, joindate,id_supermarket(foreign key).
+-  Dalam tabel Supermarket terdapat supermarket_id(Primary Key), nama_supermarket,alamat_supermarket.
+
+### Dokumentasi
 
